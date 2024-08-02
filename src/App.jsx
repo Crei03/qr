@@ -132,6 +132,7 @@ const Carreras = {
     "Licenciatura en Ingeniería de Software",
     "Licenciatura en Ciberseguridad",
     "Licenciatura en Ciencias de la Computación",
+    "Licenciatura en Desarrollo de Software",
     "Licenciatura en Desarrollo y Gestión de Software",
     "Licenciatura en Informática Aplicada a la Educación",
     "Licenciatura en Redes Informáticas",
